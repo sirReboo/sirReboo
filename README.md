@@ -1,2 +1,2 @@
-![](https://komarev.com/ghpvc/?username=Reborn-JS)
+![](https://komarev.com/ghpvc/?username=Reborn-JS&color=red)
 
